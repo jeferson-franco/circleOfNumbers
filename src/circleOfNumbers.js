@@ -8,3 +8,6 @@ module.exports = solution;
 // npm i jest-cli -g
 // package.json: "scripts": { "test": "jest" }
 // npm test circleOfNumbers
+
+// alternative solution
+// const solution = (n, firstNumber) => (firstNumber + n / 2) % n;
