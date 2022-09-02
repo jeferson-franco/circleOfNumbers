@@ -1,0 +1,20 @@
+{
+  "name": "circleofnumbers",
+  "version": "1.0.0",
+  "description": "Consider integer numbers from `0` to `n - 1` written down along the circle in such a way that the distance between any two neighboring numbers is equal (note that `0` and `n - 1` are neighboring, too).",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/circleOfNumbers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/circleOfNumbers/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/circleOfNumbers#readme"
+}
